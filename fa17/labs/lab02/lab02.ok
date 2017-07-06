@@ -1,8 +1,8 @@
 {
-  "name": "Lab 1",
-  "endpoint": "cal/ds101/su17/lab01",
+  "name": "Lab 2",
+  "endpoint": "cal/ds101/su17/lab02",
   "src": [
-    "lab01.ipynb"
+    "lab02.ipynb"
   ],
   "tests": {
       "tests/q*.py": "ok_test"
